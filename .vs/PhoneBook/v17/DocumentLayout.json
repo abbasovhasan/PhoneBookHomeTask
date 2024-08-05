@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\editform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\abbas\\rnet104\\week-10\\day-5\\phonebook\\phonebook\\listform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\listform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.Designer.cs",
+              "RelativeToolTip": "PhoneBook\\EditForm.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:02:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:02:36.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\ListForm.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\ListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\ListForm.Designer.cs",
+              "RelativeToolTip": "PhoneBook\\ListForm.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAYwJEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:57:32.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Models\\Context.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:35:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListForm.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\ListForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\ListForm.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\ListForm.cs",
+              "RelativeToolTip": "PhoneBook\\ListForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:11:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Form1.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Form1.cs",
+              "RelativeToolTip": "PhoneBook\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:11:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\EditForm.cs",
+              "RelativeToolTip": "PhoneBook\\EditForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:06:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-10\\Day-5\\PhoneBook\\PhoneBook\\Models\\Person.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:05:19.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
